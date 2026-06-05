@@ -2,7 +2,7 @@
 
 > I make AI less awkward at parties.
 
-I'm the **CTO of [CentrixIQ](#)** and the **founder of [xpntl.dev](https://xpntl.dev)**. I spend my days building software at the intersection of two things I care about a lot: the unglamorous-but-enormous world of consumer goods sales operations, and the emerging craft of getting humans and AI agents to actually work well together.
+I'm the **CTO of [CentrixIQ](https://centrixiq.com)** and the **founder of [xpntl.dev](https://xpntl.dev)**. I spend my days building software at the intersection of two things I care about a lot: the unglamorous-but-enormous world of consumer goods sales operations, and the emerging craft of getting humans and AI agents to actually work well together.
 
 Twenty-plus years in enterprise software taught me that most tools are built for how someone *imagines* a team works, not how it actually does. Both of my projects are attempts to fix that.
 
