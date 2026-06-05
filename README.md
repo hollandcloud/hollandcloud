@@ -61,6 +61,6 @@ That experience is exactly why CentrixIQ is architected the way it is: cloud-nat
 ## 📫 Let's connect
 
 - 🌐 [xpntl.dev](https://xpntl.dev)
-- 🏢 CentrixIQ — [add link]
-- 💼 [LinkedIn](#)
-- 🐦 [X / Twitter](#)
+- 🏢 [centrixIQ](https://centrixiq.com)
+- 💼 [LinkedIn](https://linkedin.com/in/holland-kevin)
+- 🐦 [X / Twitter](https://x.com/usexpntl)
