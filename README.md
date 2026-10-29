@@ -10,7 +10,7 @@ Twenty-plus years in enterprise software taught me that most tools are built for
 
 ---
 
-## 🏢 CentrixIQ
+## 🏢 [CentrixIQ](https://centrixiq.com)
 
 **The sales operations platform built specifically for food and consumer goods companies.**
 
@@ -24,13 +24,13 @@ CentrixIQ is built from 20+ years of watching that struggle up close. Every feat
 
 The whole thing runs on **Azure** following **Well-Architected Framework** principles — secure, scalable, and built to grow with the companies that depend on it.
 
-## 🤖 xpntl.dev
+## 🤖 [xpntl](https://xpntl.ai)
 
 **An agentic DevOps tool for the era of human–agent collaboration.**
 
 As AI agents take on more of the software development lifecycle, a new problem shows up: coordination. Agents can write code, open issues, and ship changes — but the handoffs between humans and agents (and between agents themselves) are still clunky, opaque, and easy to get wrong.
 
-xpntl.dev is my answer to that. It's a workflow layer designed so that humans and agents can operate on the same tasks, with the same context, without stepping on each other. The goal is simple: make agentic development feel less like supervising a black box and more like working alongside a capable teammate who keeps you in the loop.
+xpntl is my answer to that. It's a workflow layer designed so that humans and agents can operate on the same tasks, with the same context, without stepping on each other. The goal is simple: make agentic development feel less like supervising a black box and more like working alongside a capable teammate who keeps you in the loop.
 
 ---
 
